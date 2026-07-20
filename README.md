@@ -12,19 +12,23 @@ A modern Full Stack E-Commerce application built with **React.js**, **Node.js**,
   Login
   <img width="1907" height="956" alt="image" src="https://github.com/user-attachments/assets/b6fc9a6a-da86-4490-a6f4-de8dabda26ff" />
 
-- Register
-- <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/80d37761-9520-4837-a870-dffed5c2cb64" />
+ Register
+ <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/80d37761-9520-4837-a870-dffed5c2cb64" />
 
-- Home
-- <img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/109da619-cb2a-44e6-8d06-02ef91d52070" />
+ Home
+  <img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/109da619-cb2a-44e6-8d06-02ef91d52070" />
 
-- All Products
-- Product Details
-- Wishlist
-- <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/b2fb06ed-4595-4664-b010-142a54ca9b32" />
+  All Products
+  <img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/19b0bac5-f013-4573-8889-4e933e396d7a" />
 
-- Profile
-- <img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/da275767-52ed-40a1-b198-b2c5941874d2" />
+  Product Details
+  <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/c9a86f4c-7358-4ffd-bf96-a4cf5eb1a7f2" />
+
+  Wishlist
+  <img width="1920" height="956" alt="image" src="https://github.com/user-attachments/assets/b2fb06ed-4595-4664-b010-142a54ca9b32" />
+
+ Profile
+  <img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/da275767-52ed-40a1-b198-b2c5941874d2" />
 
 
  
