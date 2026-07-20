@@ -9,8 +9,8 @@ A modern Full Stack E-Commerce application built with **React.js**, **Node.js**,
 
 > Add screenshots of the following pages here.
 
-- Login
-- <img width="1907" height="956" alt="image" src="https://github.com/user-attachments/assets/b6fc9a6a-da86-4490-a6f4-de8dabda26ff" />
+  Login
+  <img width="1907" height="956" alt="image" src="https://github.com/user-attachments/assets/b6fc9a6a-da86-4490-a6f4-de8dabda26ff" />
 
 - Register
 - <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/80d37761-9520-4837-a870-dffed5c2cb64" />
